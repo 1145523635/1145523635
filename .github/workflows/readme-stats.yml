@@ -1,0 +1,15 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # 每6小时运行一次
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          token: ${{ secrets.test }}   # 这里引用你叫 test 的 Secret

@@ -81,7 +81,7 @@
 <tr>
 <td valign="top">
 
-### 🤹‍♀️ <a href="https://ynuzhui.cn/" target="_blank">Home Page</a>
+### 🤹‍♀️ Home Page
 
 <!-- START_SECTION:blog -->
 
@@ -90,7 +90,7 @@
 </td>
 <td valign="top">
   
-### 🤾‍♂️ <a href="https://www.douban.com/people/285638640" target="_blank">Funny Soul</a>
+### 🤾‍♂️ Funny Soul
 
 </tr>
 </table>

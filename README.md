@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=幸有所爱，何惧山海.;console.log(%22Hello%EF%BC%8Cworld%22)">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=银河以北;console.log(%22Hello%EF%BC%8Cworld%22)">
 </h1>
 
 
